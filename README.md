@@ -1,4 +1,4 @@
-# ☕ java-launchd - API Wrapper for launchd on MacOS
+# ☕ java-launchd - Wrapper for launchd on MacOS
 
 ## Usages:
 - Fetch, Add, or Remove all `UserAgents`, `GlobalAgents`, & `GlobalDaemons` from launchd
