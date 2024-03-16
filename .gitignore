@@ -1,0 +1,15 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+java-launchd.iml
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Other ###
+src/Main.java
+.idea/
